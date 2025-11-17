@@ -1,0 +1,34 @@
+// Placeholder component - convert and implement as needed
+export function AlertDialog(props) { return <div {...props} />; }
+export function AspectRatio(props) { return <div {...props} />; }
+export function Breadcrumb(props) { return <nav {...props} />; }
+export function Calendar(props) { return <div {...props} />; }
+export function Carousel(props) { return <div {...props} />; }
+export function Chart(props) { return <div {...props} />; }
+export function Collapsible(props) { return <div {...props} />; }
+export function Command(props) { return <div {...props} />; }
+export function ContextMenu(props) { return <div {...props} />; }
+export function Drawer(props) { return <div {...props} />; }
+export function DropdownMenu(props) { return <div {...props} />; }
+export function HoverCard(props) { return <div {...props} />; }
+export function InputOtp(props) { return <input {...props} />; }
+export function Menubar(props) { return <nav {...props} />; }
+export function NavigationMenu(props) { return <nav {...props} />; }
+export function Pagination(props) { return <nav {...props} />; }
+export function Popover(props) { return <div {...props} />; }
+export function Progress(props) { return <div {...props} />; }
+export function RadioGroup(props) { return <div {...props} />; }
+export function Resizable(props) { return <div {...props} />; }
+export function ScrollArea(props) { return <div {...props} />; }
+export function Separator(props) { return <hr {...props} />; }
+export function Sheet(props) { return <div {...props} />; }
+export function Sidebar(props) { return <aside {...props} />; }
+export function Skeleton(props) { return <div {...props} />; }
+export function Slider(props) { return <input type="range" {...props} />; }
+export function Sonner(props) { return <div {...props} />; }
+export function Switch(props) { return <input type="checkbox" {...props} />; }
+export function Table(props) { return <table {...props} />; }
+export function Textarea(props) { return <textarea {...props} />; }
+export function Toggle(props) { return <button {...props} />; }
+export function ToggleGroup(props) { return <div {...props} />; }
+export function Tooltip(props) { return <div {...props} />; }
